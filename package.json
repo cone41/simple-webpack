@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@babel/parser": "^7.8.4"
+  },
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/parser": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/traverse": "^7.8.4"
+  }
+}
